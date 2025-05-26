@@ -1,11 +1,11 @@
-import React, { Component } from 'react'
+import React from 'react'
 
-export default class NewsDetail extends Component {
-  render() {
+ const NewsDetail = ()=>  {
+  
     return (
       <div>
         This is a news detail component
       </div>
     )
-  }
+  
 }
